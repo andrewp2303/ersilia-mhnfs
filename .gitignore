@@ -3,3 +3,6 @@ assets
 __pycache__
 */__pycache__
 */outputs
+
+data/preprocessed_datasets/
+*.pdf
